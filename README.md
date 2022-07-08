@@ -1,16 +1,20 @@
 ### Hi there 👋
 
-<!--
-**DiazFarindra/DiazFarindra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##👋 Hi, i'm Diaz.
 
-Here are some ideas to get you started:
+a Software Engineer and tech Enthusiast. I have profound interest in human-computer interface (UI/UX) Design, Web Development, and everything in between.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I have experience in Web Development using the Laravel Framework and have several technologies that I have worked with such as MySQL, MongoDB, Git, NodeJS, and Javascript. and of course, i really want to learn more about modern Technology Stack.
+
+⚙️ Tech Stack that i use before for Web Dev :
+PHP Laravel Framework (Back End), HTML/CSS/Bootstrap/Tailwind, and React/NextJS (Front End)
+
+I also like my fair share of visual arts and creativity.
+
+this is how you can reach me anytime!
+
+✉️ : farindrad@gmail.com
+🔗 : www.linkedin.com/in/farindradiaz
+
+
+![<Badge Name>](https://img.shields.io/badge/<Badge Text>-<Background Color>?style=for-the-badge&logo=<Icon Name>&logoColor=<Logo Color>)
