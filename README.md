@@ -17,4 +17,4 @@ this is how you can reach me anytime!
 🔗 : www.linkedin.com/in/farindradiaz
 
 
-![<Badge Name>](https://img.shields.io/badge/<Badge Text>-<Background Color>?style=for-the-badge&logo=<Icon Name>&logoColor=<Logo Color>)
+![<Badge Name>](https://img.shields.io/badge/linkedin?style=for-the-badge&logo=linkedin)
