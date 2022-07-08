@@ -19,4 +19,4 @@ this is how you can reach me anytime!
 
 <br>
 
-![![Linked In](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)](www.linkedin.com/in/farindradiaz)
+[![Linked In](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)](www.linkedin.com/in/farindradiaz)
