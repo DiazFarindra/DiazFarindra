@@ -1,6 +1,12 @@
-### Hi there 👋
+# Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="29px">
 
-##👋 Hi, i'm Diaz.
+<hr>
+
+## 🚀 About Me.
+
+<hr>
+
+### Hi, I'm Diaz.
 
 a Software Engineer and tech Enthusiast. I have profound interest in human-computer interface (UI/UX) Design, Web Development, and everything in between.
 
@@ -14,7 +20,4 @@ I also like my fair share of visual arts and creativity.
 this is how you can reach me anytime!
 
 ✉️ : farindrad@gmail.com
-🔗 : www.linkedin.com/in/farindradiaz
-
-
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)
+![Linked In](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white) : www.linkedin.com/in/farindradiaz
