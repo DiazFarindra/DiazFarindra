@@ -20,5 +20,3 @@ this is how you can reach me anytime!
 <br>
 
 [![Linked In](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/farindradiaz)
-
-![image](https://github.com/DiazFarindra/DiazFarindra/assets/45393838/3ac69841-ccdc-4514-a072-0d1e524f6d40)
