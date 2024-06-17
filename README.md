@@ -15,7 +15,7 @@ I also like my fair share of visual arts and creativity.
 
 this is how you can reach me anytime!
 
-✉️ : farindrad@gmail.com
+✉️ : diazfarindra.work@gmail.com
 
 <br>
 
